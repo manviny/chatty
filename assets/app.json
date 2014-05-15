@@ -1,0 +1,30 @@
+{
+    "plugins": {
+        "monaca.js": [
+
+        ],
+        "phonegap\/cordova.js": [
+
+        ],
+        "monaca.viewport.js": [
+
+        ],
+        "phonegap-plugins\/childBrowser": [
+
+        ],
+        "phonegap-plugins\/iOSStatusBar": [
+
+        ],
+        "winjs\/Microsoft.WinJS": {
+            "ui-color": [
+                "CSS-UI-DARK"
+            ]
+        }
+    },
+    "splash": {
+        "android": {
+            "background": "#cccccc"
+        }
+    },
+    "version": "1.0"
+}
